@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
 - 🌱 I’m currently learning **Advanced JavaScript**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
-- 💬 Ask me about **Java, Python, or OOPs**.
+- 💬 Ask me about **C++, Java, Python, or OOPs**.
 - ⚡ Fun fact: **I know 100 digits of pi**
 
 ---
