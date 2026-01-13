@@ -18,7 +18,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
-- 🌱 I’m currently learning **Advanced JavaScript**.
+- 🌱 I’m currently learning **Advanced JavaScript** and **Back-end Web Development**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **C++, Java, Python, or OOPs**.
 - ⚡ Fun fact: **I know 100 digits of pi**
