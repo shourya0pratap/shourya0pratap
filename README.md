@@ -50,6 +50,7 @@
 | **Daily Calorie Tracker** | GUI tool to keep track of your daily calorie intake | `Python` `Tkinter` |
 | **Gradebook Analyzer** | CLI tool to analyse grades easily using CSV library | `Python` |
 | **Simple JavaScript Calculator** | A simple calculator with interactive buttons and dynamic display | `HTML5` `CSS3` `JavaScript`|
+| **Tic Tac Toe** | A tic tac toe game built using vanilla HTML, CSS and JavaScript | `HTML5` `CSS3` `JavaScript`|
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
