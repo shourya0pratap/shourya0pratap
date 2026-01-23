@@ -19,6 +19,7 @@
 
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
 - 🌱 I’m currently learning **Advanced JavaScript** and **Back-end Web Development**.
+- 🔮 I want to learn **Rust** and **C** after I master **C++** and **MERN**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **C++, Java, Python, or OOPs**.
 - ⚡ Fun fact: **I know 100 digits of pi**
@@ -51,6 +52,7 @@
 | **Gradebook Analyzer** | CLI tool to analyse grades easily using CSV library | `Python` |
 | **Simple JavaScript Calculator** | A simple calculator with interactive buttons and dynamic display | `HTML5` `CSS3` `JavaScript`|
 | **Tic Tac Toe** | A tic tac toe game built using vanilla HTML, CSS and JavaScript | `HTML5` `CSS3` `JavaScript`|
+| **Connect 4** | The long awaited sequel to tic tac toe, "Connect 4", built using vanilla HTML, CSS and JavaScript | `HTML5` `CSS3` `JavaScript`|
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
