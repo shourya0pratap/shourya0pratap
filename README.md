@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Shourya 👋</h1>
-<h3 align="center">A passionate Software Engineer 🖥️</h3>
+<h1 align="center">Ahoy! I'm Shourya 👋</h1>
+<h3 align="center">A GameDev in the works 🖥️</h3>
 
 <p align="center">
   <a href="https://github.com/shourya0pratap?tab=repositories">
@@ -21,8 +21,8 @@
 - 🌱 I’m currently learning **Advanced JavaScript** and **Back-end Web Development**.
 - 🔮 I want to learn **Rust** and **C** after I master **C++** and **MERN**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
-- 💬 Ask me about **C++, Java, Python, or OOPs**.
-- ⚡ Fun fact: **I know 100 digits of pi**
+- 💬 Ask me about **C++, Java, Python, or OOP**.
+- ⚡ Fun fact: **I know 100 digits of pi!** 🥧
 
 ---
 
@@ -32,14 +32,26 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  
+  <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   
+  <br>
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shourya0pratap&show_icons=true&theme=dracula&hide_border=true" alt="Shourya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya0pratap&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -48,11 +60,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Daily Calorie Tracker** | GUI tool to keep track of your daily calorie intake | `Python` `Tkinter` |
-| **Gradebook Analyzer** | CLI tool to analyse grades easily using CSV library | `Python` |
-| **Simple JavaScript Calculator** | A simple calculator with interactive buttons and dynamic display | `HTML5` `CSS3` `JavaScript`|
-| **Tic Tac Toe** | A tic tac toe game built using vanilla HTML, CSS and JavaScript | `HTML5` `CSS3` `JavaScript`|
-| **Connect 4** | The long awaited sequel to tic tac toe, "Connect 4", built using vanilla HTML, CSS and JavaScript | `HTML5` `CSS3` `JavaScript`|
+| [**Gradebook Analyzer**](https://github.com/shourya0pratap/gradebook_analyzer) | CLI tool to analyse grades easily using pandas/CSV | `Python` `csv` |
+| [**Daily Calorie Tracker**](https://github.com/shourya0pratap/daily_calorie_tracker) | GUI tool to keep track of your daily calorie intake | `Python` `Tkinter` |
+| [**Tic Tac Toe**](https://github.com/shourya0pratap/tic-tac-toe) | A classic game implementation to practice DOM manipulation | `HTML5` `CSS3` `JavaScript`|
+| [**Connect 4**](https://github.com/shourya0pratap/connect-four) | The long awaited sequel to Tic Tac Toe, built with vanilla JS | `HTML5` `CSS3` `JavaScript`|
+| [**Snake Game**](https://github.com/shourya0pratap/snake-game) | A true classic of the old age, reimagined using vanilla JS |  `HTML5` `CSS3` `JavaScript`|  
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
