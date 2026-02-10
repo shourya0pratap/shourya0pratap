@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
 - 🌱 I’m currently learning **Advanced JavaScript** and **Back-end Web Development**.
-- 🔮 I want to learn **Rust** and **C** after I master **C++** and **MERN**.
+- 🔮 I want to learn **Rust** after I master **C++** and **MERN**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **C++, Java, Python, or OOP**.
 - ⚡ Fun fact: **I know 100 digits of pi!** 🥧
@@ -47,6 +47,17 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+
+---
+
+###  📍 To Do
+- Advanced JS
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Phaser.js
 
 ---
 
