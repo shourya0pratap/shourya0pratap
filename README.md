@@ -18,7 +18,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
-- 🌱 I’m currently learning **Advanced JavaScript** and **Back-end Web Development**.
+- 🌱 I’m currently learning **React.js**.
 - 🔮 I want to learn **Rust** after I master **C++** and **MERN**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **C++, Java, Python, or OOP**.
@@ -51,7 +51,6 @@
 ---
 
 ###  📍 To Do
-- Advanced JS
 - React.js
 - Next.js
 - Node.js
