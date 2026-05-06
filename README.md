@@ -1,5 +1,5 @@
 <h1 align="center">Ahoy! I'm Shourya 👋</h1>
-<h3 align="center">A GameDev in the works 🖥️</h3>
+<h3 align="center">A GameDev in the making 🖥️</h3>
 
 <p align="center">
   <a href="https://github.com/shourya0pratap?tab=repositories">
@@ -18,7 +18,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
-- 🌱 I’m currently learning **React.js**.
+- 🌱 I’m currently learning about **React libraries**.
 - 🔮 I want to learn **Rust** after I master **C++** and **MERN**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **C++, Java, Python, or OOP**.
@@ -51,7 +51,7 @@
 ---
 
 ###  📍 To Do
-- React.js
+- React.js ✅
 - Next.js
 - Phaser.js
 - Node.js
