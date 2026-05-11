@@ -18,7 +18,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on an **Interactive Portfolio Website**.
-- 🌱 I’m currently learning about **React libraries**.
+- 🌱 I’m currently learning about **Typescript**.
 - 🔮 I want to learn **Rust** after I master **C++** and **MERN**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **C++, Java, Python, or OOP**.
